@@ -1,16 +1,14 @@
-# coding_question
+**Part 2: Coding Questions**
 
-A new Flutter project.
+Write a Flutter widget to display a button that increments a counter.
 
-## Getting Started
+Write a function in Dart to find the largest number in a list.
 
-This project is a starting point for a Flutter application.
+Create a custom widget that displays an image with a title and description below it.
 
-A few resources to get you started if this is your first Flutter project:
+Create a simple Flutter widget to display a grid of colored boxes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Write a Flutter widget that accepts user input and displays it in real-time on the screen.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Build a Flutter widget that toggles between two themes (light and dark).
+
